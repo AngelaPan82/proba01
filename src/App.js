@@ -26,7 +26,7 @@ export default function App() {
         </nav>
 
         {/* A <Switch> looks throudddddfdfgfggh its children <Route>s and
-            renders the first one that matches the current URL. */}
+            renders the first one that matfffffches the current URL. */}
         <Switch>
           <Route path="/about">
             <About />
