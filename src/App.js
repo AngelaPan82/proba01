@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import About from "./pages/about";
 
+
 export default function App() {
   return (
     <Router>
