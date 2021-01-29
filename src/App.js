@@ -12,7 +12,7 @@ export default function App() {
   return (
     <Router>
       <div>
-        <nav>
+        <nav>    
           <ul>
             <li>
               <Link to="/">Home</Link>
