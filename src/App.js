@@ -26,8 +26,6 @@ export default function App() {
           </ul>
         </nav>
 
-        {/* A <Switch> looks throudddddfdfgfggh its children <Route>s and
-            renders the first one that matfffffches the current URL. */}
         <Switch>
           <Route path="/about">
             <About />
